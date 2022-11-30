@@ -13,8 +13,8 @@ public class ContactTest extends TestCase {
 
     @Test
     public void testInsertContact() {
-        Contact contact = new Contact("eunice", "scintich", "0620913691");
-        contact.insertContact(contact.getNom(), contact.getPrenom(), contact.getNumTel());
+        //Contact contact = new Contact("eunice", "scintich", "0620913691");
+        //contact.insertContact(contact.getNom(), contact.getPrenom(), contact.getNumTel());
 
     }
 
